@@ -22,9 +22,15 @@ Each moment is a discrete compression event in a cycle of perception and update,
 
 ## SHG as a New Physics Framework
 
-SHG provides an ontologically economical reinterpretation of physical law. Where mainstream physics often invokes multiple speculative entities, SHG reduces explanation to a single compression principle. Its implications extend into quantum theory, relativity, and cosmology.
+SHG provides an ontologically economical reinterpretation of physical law. Where mainstream physics invokes multiple ontic layers, SHG grounds both quantum behavior and gravitational geometry in one compression principle.  Its implications extend into quantum theory, relativity, and cosmology.
 
-**Advantages over other frameworks:**
+**Advantages over other frameworks:
+
+**Unified view (QM + GR):** Quantum behavior reflects pre-compression optimization; gravitational curvature reflects post-compression stability. Both are regimes of the same coherence-minimization function.
+
+**Determinism beneath statistical behavior:** Measurement outcomes arise from globally constrained compression. Statistical patterns reflect local opacity to the underlying state, not intrinsic randomness.
+
+**No fundamental locality:** The Infostream lacks a native metric; locality and distance arise only in projection. Entanglement appears nonlocal because two projected sites refer back to one underlying structure.
 
 - **Over quantum interpretations:** Replaces randomness and ontological overload with deterministic, coherence-driven selection.
 - **Over General Relativity:** Reinterprets spacetime as an emergent projection of compression geometry within the Infostream, simplifying ontology.
@@ -56,10 +62,12 @@ SHG offers a compression-based reinterpretation:
 
 In General Relativity (GR), spacetime is not a substance but a relational geometry shaped by mass-energy. SHG offers a compatible view: space and time are not fundamental substrates but emergent coordinates arising directly from compression dynamics in the Infostream.
 
-- **Imaginary projections:** Space and time can be treated as semi-dependent projections ("1.5D shadows") of the Infostream.
-- **Metric as compression geometry:** The spacetime metric corresponds to distances in the compression landscape — shorter codes correspond to geodesics of stability.
-- **Curvature as coherence bias:** What GR describes as curvature, SHG reframes as local adjustments in coherence optimization.
-- **Gravity as emergent order:** The attraction we interpret as gravitation is simply the system’s preference for globally consistent, compressible states.
+- **Projection basis:** Space and time function as semi-dependent coordinate constructs derived from constraints on coherence optimization.
+- **Metric as compression geometry:** The spacetime metric corresponds to distances in the compression landscape—shorter descriptive codes align with stable trajectories.
+- **Curvature as coherence bias:** What GR describes as curvature is reframed as local adjustments in coherence optimization.
+- **Gravity as emergent order:** Apparent gravitational attraction reflects the system’s bias toward globally consistent, compressible states.
+
+
 
 This perspective aligns SHG with GR while simplifying its ontology: instead of spacetime as an independent manifold, it becomes a practical coordinate system for expressing compression-consistent relations within the Infostream.
 
@@ -69,9 +77,10 @@ This perspective aligns SHG with GR while simplifying its ontology: instead of s
 
 Mainstream cosmology requires both an **inflaton field** (to drive exponential expansion) and **dark energy** (to account for late-time accelerated expansion). SHG provides a single mechanism that renders both unnecessary:
 
-- **Variable effective speed of light:** In SHG, the speed of light is not an immutable constant but the maximum rate of coherence propagation within the Infostream. Locally and in the current epoch it appears constant (as confirmed by experiment), but globally and in the early universe it could evolve as correlation density increased.
-- **Early phase (cold start):** At the origin, maximal coherence implies zero informational distances and effectively infinite c. As correlations accumulate, c_eff decreases, producing the appearance of rapid expansion (“inflation”) without invoking a new field.
-- **Late phase (dark energy analogue):** What is interpreted as accelerated expansion is, in SHG, the observational imprint of c_eff continuing to decline as coherence constraints grow. Rather than “space stretching faster,” light itself is propagating differently due to changes in the Infostream’s compression dynamics.
+- **Variable effective speed of light:** The speed of light reflects the maximum rate of coherence propagation within the Infostream. Locally constant today, it may have differed under early low-complexity conditions.
+- **Early phase:** In the initial low-correlation regime, space–time separation has not yet meaningfully emerged. Describing coherence update rates as a “speed” is misleading: apparent inflation is a projection artifact of sampling an undifferentiated substrate.
+- **Late phase (dark energy analogue):** Apparent accelerated expansion corresponds to continued shifts in effective coherence-propagation rates as global constraints increase.
+
 
 Thus SHG unifies inflation and dark energy under one explanatory principle: the evolution of coherence propagation speed in an informational substrate.
 
@@ -94,6 +103,9 @@ In biology, natural selection compresses uncertainty into efficient codes — DN
 
 ## Limitations of SHG
 
+### Note on Potential Empirical Probes
+A separate technical document outlines a laboratory protocol — an adaptive interference experiment — designed to test whether closed‑loop, compression‑minimizing control produces statistical deviations beyond standard quantum predictions. SHG does not require such an effect; however, a positive result would be compatible with its compression‑driven dynamics. The experiment is optional, falsifiable, and independent of SHG’s core ontology.
+
 - Does not explain the Infostream’s ultimate substrate.
 - Lacks exact predictive formulas without further formalization.
 - Leaves physical implementation open.
@@ -111,11 +123,13 @@ SHG frames reality as a compression-driven selection process, avoiding speculati
 - **Jürgen Schmidhuber:** Advocates the principle that compression is a fundamental optimization driver in complex systems. While his work focuses on artificial intelligence, the concept parallels SHG’s view of compression as the mechanism shaping the most coherent possible trajectory of physical reality.
 - **Nick Bostrom:** Originator of the modern simulation argument, which frames reality as potentially generated by computational processes. While Bostrom’s model does not specify the internal mechanics, SHG can be seen as a concrete mechanism that could underlie such a simulation.
 - **João Magueijo & Andreas Albrecht (1999):** Early proponents of varying speed of light (VSL) cosmologies, suggesting c may have been higher in the early universe as an alternative to inflationary models.
+- **Stephen Wolfram (2020):** Proposed a physics framework based on fundamental information updates, with spacetime and particles emerging from underlying graph-rewrite rules — conceptually parallel to SHG’s Infostream substrate.
+- **Carlo Rovelli:** Founder of Relational Quantum Mechanics, emphasizing that physical states arise only in interactions and do not preexist as absolute quantities — consistent with SHG’s compression-based emergence of definite outcomes.
 
 ---
 
 *Cohere. Compress. Realize.*
 
-[Coherence pressure test](https://www.notion.so/Coherence-pressure-test-25132baff4cf80edad4ce79f56e5aa9c?pvs=21)
+---
 
-[SHG under the Scientific Method](https://www.notion.so/SHG-under-the-Scientific-Method-25132baff4cf80f68bcbd3f5e6688e86?pvs=21)
+
