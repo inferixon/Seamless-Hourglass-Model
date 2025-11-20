@@ -29,22 +29,22 @@ Seamless-Hourglass-Model/
 ├── README.md                 # This file
 ├── LICENSE                   # Open license for the text (e.g. CC BY 4.0)
 │
-├── SHG_Model.md              # Main exposition (Markdown)
-├── SHG_Model.pdf             # Same content as PDF
+├── SHG Model.md              # Main exposition (Markdown)
+├── SHG Model.pdf             # Same content as PDF
 │
 ├── experiments/
-│   ├── Coherence_Pressure_Test.md   # Adaptive interference protocol
-│   └── Coherence_Pressure_Test.pdf
+│   ├── Coherence Pressure Test.md   # Adaptive interference protocol
+│   └── Coherence Pressure Test.pdf
 │
 └── references/
-    └── core_refs.md          # Short list of conceptual references
+    └── Core Refs.md          # Short list of conceptual references
 ```
 
 ---
 
-## 3. Main document: SHG_Model
+## 3. Main document: SHG Model
 
-The main document `SHG_Model` presents:
+The main document `SHG Model` presents:
 
 * The Infostream as a non-metric informational substrate.
 * SHG as an interpretation of quantum mechanics:
@@ -59,7 +59,7 @@ The main document `SHG_Model` presents:
   * Gravity as emergent order: the tendency toward globally compressible states.
 * SHG and cosmology:
 
-  * Variable effective speed of light as an emergent property of coherence propagation.
+  * Variable apparent effective speed of light as an emergent property of coherence propagation.
   * Early low-correlation regime instead of inflaton fields.
   * Late-time acceleration as a shift in effective coherence propagation, not a separate dark-energy substance.
 * Limitations:
@@ -74,7 +74,7 @@ The model is intended to be compatible with existing empirical results while off
 
 ## 4. Experimental protocol: Coherence pressure test
 
-The `experiments/Coherence_Pressure_Test` document describes a **compressivity-driven interference test**:
+The `experiments/Coherence Pressure Test` document describes a **compressivity-driven interference test**:
 
 * A Mach–Zehnder or double-slit interferometer is toggled between:
 
@@ -96,7 +96,7 @@ This protocol is optional and independent from SHG’s core ontology. It exists 
 
 ## 5. References
 
-See `references/core_refs.md` for a short list of prior work that conceptually overlaps with SHG, including:
+See `references/Core Refs.md` for a short list of prior work that conceptually overlaps with SHG, including:
 
 * Jürgen Schmidhuber on compression as a driving principle in learning and modeling.
 * Stephen Wolfram’s Physics Project on emergent spacetime from discrete information updates.

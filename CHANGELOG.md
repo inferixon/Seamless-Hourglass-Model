@@ -1,24 +1,30 @@
-# Changelog
+# Changelog — Seamless Hourglass Model
 
-All notable changes to this project will be documented in this file.
 
-The format is inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), but simplified.
+## **v1.4 — Public‑ready draft (current)**
+- Unified terminology (Infostream, compressivity, coherence pressure).
+- Strengthened definition and interpretation of expected outcomes.
+- Prepared documents for public repository release.
 
-## [1.4] - 2025-11-20
+## **v1.3 — State at the beginning of this context**
+- Clearly formulated **compression** as the core function of the Infostream.
+- Completed **SHG + QM** section (superposition as pre-compression, collapse as re-compression).
+- Completed **SHG + GR** section (geometry as expression of compression cost).
+- Completed **SHG + Cosmology** section (cosmic expansion, early-era low-correlation regime, variable effective coherence-propagation rate).
+- Formulated the hypothesis of the speed of light as an apparent invariant emerging from joint projection of space/time axes — a constraint on how the Infostream encodes coherent propagation, not a primitive velocity constant.
+- Completed **SHG + Evolution** section (coherence-driven complexity gradients, compression-shifts enabling selection dynamics).
+- Added **Relevant References** section linking SHG to information-theoretic, relational, and VSL-cosmology literature.
+- Added the first coherent version of the *Coherence Pressure Test* as a potential empirical probe.
 
-### Changed
-- Renamed main model document from `SHG_Model.md` to `SHG Model.md`.
-- Renamed experiment protocol from `experiments/Coherence_Pressure_Test.md` to `experiments/Coherence Pressure Test.md` for consistency with article naming.
+## **v1.2 — Introduction of the axiomatic layer**
+- Introduced **Infostream** as the ontological foundation.
+- Added the **coherence pressure** hypothesis.
+- Shifted from metaphorical outline to structured theoretical model.
 
-### Added
-- `SHG Model.pdf` — PDF export of the main SHG model article.
-- `experiments/Coherence Pressure Test.pdf` — PDF export of the experimental protocol.
-- `CHANGELOG.md` to track future revisions.
+## **v1.1 — SHG as an interpretation of quantum mechanics**
+- Formed the conceptual core: SHG as an informational interpretation of QM.
 
-## [1.3] - 2025-11-20
+## **v1.0 — Philosophical origin of the model**
+- SHG originated as a metaphor of "trajectory selection" in evolving reality.
+- First appearance of the Seamless Hourglass idea as the intuitive root of the model.
 
-### Added
-- `SHG_Model.md` (v1.3) — main Seamless Hourglass Model exposition in Markdown.
-- `experiments/Coherence_Pressure_Test.md` — detailed compressivity-driven interference test protocol.
-- `README.md` — high-level repository and model overview.
-- `references/core_refs.md` — core conceptual references related to SHG.
